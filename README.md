@@ -1,11 +1,6 @@
 # Personal Finance : 
 
-## 🌟 Featured on Streamlit community forum 🌟
-![coverage](https://img.shields.io/badge/coverage-100%25-green) 
-![version](https://img.shields.io/badge/version-0.4.1-blue)
-<!-- everything tested  -->
-
-Since when I moved to Bangalore I've been monitoring my expenses. Every night I used to fill the data in an Excel sheet. And this is my personal finance dashboard where I have plotted various charts representing my spendings...
+Since when I moved to Bangalore I've been monitoring my expenses. Every night I used to fill the data in an Excel sheet. And this is my personal finance dashboard where I have plotted various charts representing my spendings.
 
 <p align = 'center' >
     <img alt = 'home_image' src = 'results/result.gif'>
@@ -83,14 +78,7 @@ Personal Finance
 
 ```
 ---------------------
-<p align="left">
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-    <img src="https://img.shields.io/badge/numpy-%23F7931E.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/streamlit-%23F05033.svg?style=for-the-badge&logo=streamlit&logoColor=white">
-    <img src="https://img.shields.io/badge/plotly-%037FFC.svg?style=for-the-badge&logo=plotly&logoColor=white">
-    <img src="https://img.shields.io/badge/vscode-%23190458.svg?style=for-the-badge&logo=visualstudio&logoColor=white">
-</p>
+
 
 ## Technologies used : 
 
@@ -107,7 +95,3 @@ Personal Finance
 -----------------------
 <br>
 
-# If you Liked this project the you can consider connecting with me:
-* [LinkedIn](https://www.linkedin.com/in/soumyadip-ghorai/) 
-
-* You can find my other projects and EDAs on [Kaggle](https://www.kaggle.com/soumyadipghorai)
